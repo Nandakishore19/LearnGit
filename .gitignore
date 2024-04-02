@@ -1,2 +1,12 @@
 #ignoring specific file
 .env
+
+#ignoring specific directories
+/logs
+
+#ignoring file extensions
+*.psd
+
+#ignoring specific file path
+important/superimportant
+
