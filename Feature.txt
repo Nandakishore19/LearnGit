@@ -1,2 +1,1 @@
-Conflict2
-In main branch to nullify what conflict1 did
+Making a conflict again in conflict 1 branch
