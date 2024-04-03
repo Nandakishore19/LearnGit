@@ -1,1 +1,2 @@
 Conflict2
+Making a conflict again in conflict 1 branch
